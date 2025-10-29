@@ -91,7 +91,7 @@ install_system() {
     dd if="$image_file" of="$target_disk" bs=4M conv=fsync status=progress
     
     echo "──────────────────────────────────────"
-    echo "Custom OpenWrt installed successfully:"
+    echo "immortalwrt x86_64 installed successfully:"
 }
 
 while true; do
