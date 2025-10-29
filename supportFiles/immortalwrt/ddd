@@ -3,9 +3,9 @@
 show_menu() {
     clear
     echo "====================================="
-    echo "  Immortalwrt  Installer  by  codeidc"
+    echo "   immortalwrt  x86_64   by   codeidc"
     echo "====================================="
-    echo "1. Install Immortalwrt 24.10.3 (4GB)"
+    echo "1. Install Immortalwrt 24.10.4 (4GB)"
     echo "0. Quit"
     echo "====================================="
 }
