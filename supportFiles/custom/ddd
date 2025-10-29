@@ -3,9 +3,9 @@
 show_menu() {
     clear
     echo "=========================================="
-    echo "  Custom OpenWrt Installer by wukongdaily"
+    echo "  immortalwrt x86_64 Install  by   codeidc"
     echo "=========================================="
-    echo "1. Install Custom OpenWrt"
+    echo "1. Install immortalwrt x86_64 "
     echo "0. Quit"
     echo "====================================="
 }
